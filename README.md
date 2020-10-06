@@ -1,5 +1,5 @@
 # pcmrg
-PCM audio replay gain computer
+PCM audio replay gain calculator
 
 The program takes three arguments: the name of the PCM file, the audio frequency
 ('A' for 44.1kHz, 'B' for 48kHz, 'C' for 22.05kHz) and the number of channels
